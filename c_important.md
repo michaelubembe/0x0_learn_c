@@ -6,3 +6,14 @@
 - C allows procedural programming
 - Popular choice for system level apps
 - Has a wide variety of built in functions eg printf, scanf and headers like stdio.h, limits.h, math.h, time.h etc
+
+# Preprocessing
+- Used to:
+	- include header files i.e #include
+	- define macros i.e #define
+	- perform conditional compilation i.e #ifdef and #endif
+
+# Header files
+- They contain prototypes/declarations of functions
+- e.g standard input and output file `stdio.h`
+- it contains prototypes of printf, scanf e.t.c
