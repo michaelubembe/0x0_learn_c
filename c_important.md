@@ -17,3 +17,9 @@
 - They contain prototypes/declarations of functions
 - e.g standard input and output file `stdio.h`
 - it contains prototypes of printf, scanf e.t.c
+
+# Functions
+`return_type name(parameter_type name, ...)
+{
+	Block of statements
+}`

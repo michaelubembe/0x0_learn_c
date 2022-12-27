@@ -8,6 +8,8 @@
 #include <stdio.h>
 
 /** main function that returns an integer
+ * A function has a return type, name of function, parameter type, name of parameter
+ * A set of statements
  * Return: 0
  */
 
