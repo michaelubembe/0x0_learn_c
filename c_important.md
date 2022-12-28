@@ -26,4 +26,4 @@
 
 # Place holders
 - Placeholder for integer(decimal number) - %d
-- 
+- %i placeholder for bot -ve and +ve integers 
