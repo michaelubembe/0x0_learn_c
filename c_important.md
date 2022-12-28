@@ -23,3 +23,7 @@
 {
 	Block of statements
 }`
+
+# Place holders
+- Placeholder for integer(decimal number) - %d
+- 
